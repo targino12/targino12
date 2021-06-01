@@ -1,5 +1,6 @@
 ### Olá, Me chamo Diana Targino 👋😄
 
+<img src="https://www.canva.com/design/DAEe-J2eBwI/share/preview?token=PxsueRujFibrDF9aUqrQdQ&role=EDITOR&utm_content=DAEe-J2eBwI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 
 
 - 🔭 Sou estudante na área de Tecnologia, com foco em Programação Front-End.
