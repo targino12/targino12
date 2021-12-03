@@ -23,7 +23,7 @@ Graduanda em Licenciatura em Computação e Informática pela Universidade Feder
   <img align="center" alt="di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="di-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="di-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="di-pic" height="150" style="border-radius:50px;" src=https://instagram.fnat6-1.fna.fbcdn.net/v/t51.2885-19/s150x150/257139860_1391688407894453_849317866823229473_n.jpg?_nc_ht=instagram.fnat6-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=WONO9iBurFYAX-I1tNm&edm=ALCvFkgBAAAA&ccb=7-4&oh=7085c65b42a2dc46d166010d2be6ff6f&oe=619AA55C&_nc_sid=643ae9">
+
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
