@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante na área de Tecnologia, com foco em Programação Front-End.
 
-Graduada em Licenciatura em Computação e Informática pela Universidade Federal Rural do Semi-Árido (UFERSA), durante a graduação atuou como bolsista do Programa Institucional de Bolsas de Iniciação a Docência (PIBID/CAPES) e participou como membro da comissão organizadora do Projeto de Extensão SCRATCH: DÊ VIDA À SUA IMAGINAÇÃO. Estudante do curso-Técnico EAD em INFORMÁTICA PARA INTERNET (ifsuldeminas). Estudante do curso- Técnico de Nível Médio em Manutenção e Suporte em Informática,(IFRN).
+Graduada em Licenciatura em Computação e Informática pela Universidade Federal Rural do Semi-Árido (UFERSA), durante a graduação atuou como bolsista do Programa Institucional de Bolsas de Iniciação a Docência (PIBID/CAPES) e Programa residência pedagógica(PRP/CAPES). Participou como membro da comissão organizadora do Projeto de Extensão SCRATCH: DÊ VIDA À SUA IMAGINAÇÃO. Estudante do curso-Técnico EAD em INFORMÁTICA PARA INTERNET (ifsuldeminas). Estudante do curso- Técnico de Nível Médio em Manutenção e Suporte em Informática,(IFRN).
 
 <div align="center">
   <a href="https://github.com/targino12">
