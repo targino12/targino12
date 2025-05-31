@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante na área de Tecnologia, com foco em Programação Front-End.
 
-Graduada em Licenciatura em Computação e Informática pela Universidade Federal Rural do Semi-Árido (UFERSA), durante a graduação atuou como bolsista do Programa Institucional de Bolsas de Iniciação a Docência (PIBID/CAPES) e Programa residência pedagógica(PRP/CAPES). Participou como membro da comissão organizadora do Projeto de Extensão SCRATCH: DÊ VIDA À SUA IMAGINAÇÃO. Estudante do curso-Técnico EAD em INFORMÁTICA PARA INTERNET (ifsuldeminas). Estudante do curso- Técnico de Nível Médio em Manutenção e Suporte em Informática,(IFRN).
+Graduada em Licenciatura em Computação e Informática pela Universidade Federal Rural do Semi-Árido (UFERSA), durante a graduação atuou como bolsista do Programa Institucional de Bolsas de Iniciação a Docência (PIBID/CAPES) e Programa residência pedagógica(PRP/CAPES). Participou como membro da comissão organizadora do Projeto de Extensão SCRATCH: DÊ VIDA À SUA IMAGINAÇÃO. curso-Técnico EAD em INFORMÁTICA PARA INTERNET (ifsuldeminas). Mestrado em ciências da computação pela Universidade Federal Rural do Semi-Árido (UFERSA) Universidade Estadual do Rio Grande do Norte (UERN)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Diana+Targino;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Computação+e+Informática;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
